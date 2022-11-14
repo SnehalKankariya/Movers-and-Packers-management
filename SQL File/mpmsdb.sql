@@ -43,7 +43,7 @@ CREATE TABLE `tbladmin` (
 --
 
 INSERT INTO `tbladmin` (`ID`, `AdminName`, `UserName`, `MobileNumber`, `Email`, `Password`, `AdminRegdate`) VALUES
-(1, 'Admin', 'admin', 8979555596, 'admin@gmail.com', 'f925916e2754e5e03f75dd58a5733251', '2019-11-18 06:57:43');
+(1, 'Admin', 'admin', 8979555596, 'admin@gmail.com', 'f925916e2754e5e03f75dd58a5733251', '2022-11-14 06:57:43');
 
 -- --------------------------------------------------------
 
