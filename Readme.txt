@@ -1,4 +1,5 @@
-How to run the Movers and Packsers Management System (MPMS) Project
+DBMS-FSD Mini Project
+Steps to run the Movers and Packsers Management System (MPMS) Project
 
 1. Download the zip file
 
@@ -14,8 +15,8 @@ How to run the Movers and Packsers Management System (MPMS) Project
 
 7.Run the script http://localhost/mpms (frontend)
 
-Credential for admin panel :
+Access to the admin panel :
 
 Username: admin
-Password: Test@123
+Password: admin@123
 
