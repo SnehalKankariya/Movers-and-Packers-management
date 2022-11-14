@@ -1,7 +1,7 @@
     <div class="agileinfo_copy_right">
         <div class="container">
             <div class="agileinfo_copy_right_left">
-                <p>© 2019 Movers & Packers Management System</p>
+                <p>2022 Copyright!!</p>
             </div>
             <div class="agileinfo_copy_right_right">
                 <ul class="social">

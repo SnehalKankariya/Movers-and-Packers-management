@@ -123,7 +123,7 @@ echo "<script>window.location.href ='request-quote.php'</script>";
 							<option value="">Select your professional wisely</option>
 							<option value="Handpicked professionals(Only 3% of packers and movers meet our quality criteria))">Handpicked professionals(Only 3% of packers and movers meet our quality criteria)</option>
 							<option value="Trusted & Reliable professionals(Professionals are background verified)">Trusted & Reliable professionals(Professionals are background verified)</option>
-							<option value="vet the professional before hiring(Professional wiil be responsible for theft,damages and delay">vet the professional before hiring(Professional wiil be responsible for theft,damages and delay</option>
+							<option value="Get the professional before hiring(Professional will be responsible for theft,damages and delay">Get the professional before hiring(Professional will be responsible for theft,damages and delay</option>
 							
 						</select>
 					</div>

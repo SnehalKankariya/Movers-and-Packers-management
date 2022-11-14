@@ -46,8 +46,7 @@ include('includes/dbconnection.php');
 		<div class="container">
 			<div class="w3ls_banner_info">
 				<h2>Movers & Packers</h2>
-				<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-					fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt.</p>
+				<p style="font-size:30px;">Your Belongings - Our Resposibilities!!</p>
 				<div class="wthree_more">
 					<a href="services.php" class="button--wayra button--border-thick button--text-upper button--size-s">Services</a>
 				</div>
@@ -73,8 +72,8 @@ include('includes/dbconnection.php');
 									<img src="images/1.png" alt=" " class="img-responsive" />
 									<h4><i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil 
 										impedit quo minus id quod maxime placeat facere possimus, omnis voluptas.</i></h4>
-									<h5>Mr. Jacob</h5>
-									<p>Founder</p>
+									<h5>Mr. Nambiar</h5>
+									<p>Professor</p>
 								</div>
 							</li>
 							<li>	
@@ -82,7 +81,7 @@ include('includes/dbconnection.php');
 									<img src="images/2.png" alt=" " class="img-responsive" />
 									<h4><i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil 
 										impedit quo minus id quod maxime placeat facere possimus, omnis voluptas.</i></h4>
-									<h5>Mr. Jhon Kheler</h5>
+									<h5>Mr. Khan</h5>
 									<p>Transport Agent</p>
 								</div>
 							</li>
@@ -91,8 +90,8 @@ include('includes/dbconnection.php');
 									<img src="images/3.png" alt=" " class="img-responsive" />
 									<h4><i>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil 
 										impedit quo minus id quod maxime placeat facere possimus, omnis voluptas.</i></h4>
-									<h5>Thomas Carl</h5>
-									<p>Transport Agent</p>
+									<h5>Dr. Ghatode</h5>
+									<p>Doctor</p>
 								</div>
 							</li>
 						</ul>
