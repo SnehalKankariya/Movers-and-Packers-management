@@ -1,4 +1,4 @@
-How to run the Movers and Packsers Management System (MPMS) Project
+Steps to run the Movers and Packsers Management System (MPMS) Project
 
 1. Download the zip file
 
