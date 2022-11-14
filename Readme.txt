@@ -17,5 +17,5 @@ How to run the Movers and Packsers Management System (MPMS) Project
 Credential for admin panel :
 
 Username: admin
-Password: Test@123
+Password: admin@123
 
