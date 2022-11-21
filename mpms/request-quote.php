@@ -6,8 +6,6 @@ include('includes/dbconnection.php');
     if(isset($_POST['submit']))
   {
 
-
- 
  $name=$_POST['name'];
   $mobnum=$_POST['mobnum'];
  $email=$_POST['email'];
@@ -109,10 +107,11 @@ echo "<script>window.location.href ='request-quote.php'</script>";
 					<div class="col-md-12 wthree_contact_left_grid" style="padding-top: 20px">
 						<strong style="padding-right: 20px">What do you want to shift?</strong><select type="text" name="bitems" value="What do you want to shift?*" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Subject*';}" required="true">
 							<option value="">Choose................</option>
-							<option value="Very Few items($65-$75)">Very Few items($65- $75)</option>
-							<option value="1 BHK($80-$100)">1 BHK($80-$100)</option>
-							<option value="Very Few items($65-$75)">2 BHK($100-$120)</option>
-							<option value="Very Few items($65-$75)">3 BHK($140-$180)</option>
+							<option value="Local Shifting(6500- 7500)">Local Shifting(6500- 7500)</option>
+							<option value="Fragile Items(8000-10000)">Fragile Items(8000-10000)</option>
+							<option value="Loading and Unloading(8000-10000)">Loading and Unloading(8000-10000)</option>
+							<option value="Vehicles(2 wheelers)(10000-12000)">Vehicles(2 wheelers)(10000-12000)</option>
+							<option value="Vehicles(4 wheelers)(14000-18000)">Vehicles(4 wheelers)(14000-18000)</option>
 						</select>
 					</div>
 					<div class="col-md-12 wthree_contact_left_grid" style="padding-top: 20px">

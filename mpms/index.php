@@ -122,4 +122,4 @@ include('includes/dbconnection.php');
 	<script src="js/bootstrap.js"></script>
 <!-- //for bootstrap working -->
 </body>
-</html>
+</html
