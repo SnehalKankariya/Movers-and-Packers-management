@@ -87,7 +87,7 @@ foreach($results as $row)
                <?php $cnt=$cnt+1;}} ?>  
                                        
                                         
-                                    </tbody>
+                                 </tbody>
                                 </table>
                             </div>
                             

@@ -21,7 +21,6 @@ if (strlen($_SESSION['mpmsaid']==0)) {
       <link href="assets/css/main-style.css" rel="stylesheet" />
 
 
-
 </head>
 
 <body>
