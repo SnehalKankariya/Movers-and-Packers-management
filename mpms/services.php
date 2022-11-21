@@ -3,7 +3,7 @@ session_start();
 error_reporting(0);
 include('includes/dbconnection.php');
 
-  ?>
+ ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -76,7 +76,6 @@ foreach($results as $row)
 				<div class="clearfix"> </div>
 				
 			</div>
-			
 		</div>
 
 	</div>
